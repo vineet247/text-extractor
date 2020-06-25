@@ -1,0 +1,16 @@
+To execute the program, run desktop.py
+To run: python \folder_path\desktop.py
+
+Python version 3.6 and above preferred.
+
+Libraries required to execute this program:
+  1. tkinter
+  2. pdfbox
+  3. re
+  4. os
+  5. datetime
+  6. docx2txt (for further use when we extract language from word file)
+
+To install the libraries above, make sure you have a package installer like pip or homebrew.
+
+Ensure that desktop.py and app.py are in the same folder
